@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290403969523",
+    "project_id": "fir-flutter-codelab-6d277",
+    "storage_bucket": "fir-flutter-codelab-6d277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290403969523:android:217710455c2111d3118a86",
+        "android_client_info": {
+          "package_name": "com.example.firebase_flutter_codelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290403969523-sma8quh60aqd1qmgsah81cnfluf6be48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTuj0e0I-_pE6wtKjU_ddcOWy2oEXeZq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290403969523-sma8quh60aqd1qmgsah81cnfluf6be48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
