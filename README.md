@@ -80,26 +80,60 @@ Berikut ini menjalankan sampel kode dari **codelab**.
 
 Berikut ini hasil penambahan **user sign-in** pada kode program 
 
+  1) Menekan tombol RSVP
+
 ![screenshot](images/08.png)
+
+  2) Memasukkan email yang ingin didaftarkan
 
 ![screenshot](images/09.png)
 
+  3) Memasukkan password, apabila kurang dari 6 karakter maka akan muncul pesan error.
+
 ![screenshot](images/10.png)
+
+  4) Setelah semua terisi, untuk melanjutkan klik **SAVE**.
 
 ![screenshot](images/11.png)
 
+  5) Apabila berhasil maka akan muncul button **LOGOUT** sebagai berikut.
+
 ![screenshot](images/12.png)
+
+### 5. Menulis Pesan ke Cloud Firestore
+
+  Hasil praktikum sebagai berikut
+  
+  1) Penambahan button **SEND** Pada screen.
 
 ![screenshot](images/13.png)
 
+  2) Menambahkan sebuah pesan baru.
+
 ![screenshot](images/14.png)
+
+  3) Pesan berhasil disimpan pada **Cloud Firebase**.
 
 ![screenshot](images/15.png)
 
+### 6. Membaca Pesan
+
+  Berikut merupakan hasil praktikum penerapan pembacaan pesan pada Firebase. 
+  
 ![screenshot](images/16.png)
 
+### 7. Menyiapkan aturan keamanan dasar 
+
+  Menambahkan beberapa validasi sehingga hanya pengguna yang masuk yang dapat membaca pesan (pesan apa pun), tetapi hanya pembuat pesan yang dapat mengedit pesan.
+  
 ![screenshot](images/17.png)
 
+### 8. Mencatat status RSVP peserta 
+
+  Menambahkan validasi berikut untuk mengizinkan semua orang membaca daftar peserta (karena tidak ada data pribadi di sana), tetapi hanya pembuatnya yang dapat memperbaruinya. 
+
 ![screenshot](images/18.png)
+
+  Hasil praktikum
 
 ![screenshot](images/19.png)
